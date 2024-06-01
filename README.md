@@ -104,4 +104,7 @@ Ensure you install `requirements.txt`
 
 ## Future work:
 
-As I don't have much time for this task I choose a naive way to extract bad words which we can make it really better with other kinds of transformer based methods.
+- As I don't have much time for this task I choose a naive way to extract bad words which we can make it really better with other kinds of transformer based methods.
+- We can make code OOP
+- We can use some features that I've understood from EDA notebook which is important.
+- We can change architecture of top layer of network (nonBERT part)
